@@ -23,6 +23,7 @@
 ---
 
 ## 🚀 Projects
+- **Portfolio** -- https://alperenk5328.github.io
 - 🍽️ **QR Code Based Restaurant Ordering System** – Flask backend & .NET WinForms client  
 - 📱 **Calorie Tracking Mobile App** – Flutter + FastAPI + PostgreSQL + Firebase  
 - 🤖 **Agricultural Unmanned Ground Vehicle** – ROS & Ubuntu-based system (Teknofest Project)  
